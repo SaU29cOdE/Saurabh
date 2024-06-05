@@ -1,0 +1,46 @@
+/* About Us Image CSS Start */
+.aboutus-image img {
+  margin-top: 10px;
+  height: 80vh;
+  width: 98vw;
+}
+
+.aboutus-text {
+  position: absolute;
+  top: 55%;
+  left: 26%;
+  border: 6.5px solid white;
+  padding: 7px;
+  color: white;
+  font-size: 60px;
+  font-weight: bolder;
+  text-align: center;
+}
+/* About Us Image CSS END */
+
+/* About Us Image CSS Start */
+.container {
+  margin-top: 10px;
+  height: 350px;
+  width: 98vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #eaeaea;
+  background: linear-gradient(45deg, #000000, #ffffff);
+}
+
+.container img {
+  height: 270px;
+  width: 350px;
+}
+
+p {
+  height: 300px;
+  width: 750px;
+  color: black;
+  padding: 10px; /* Adds padding inside the paragraph */
+  overflow: auto; /* Ensures content stays within the boundaries */
+  box-sizing: border-box; /* Ensures padding is included in the width and height */
+  font-family: "Open Sans", sans-serif;
+}

@@ -1,0 +1,18 @@
+.hero-image {
+  margin-top: 10px;
+  height: 80vh;
+  width: 99vw;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 6.5px solid white;
+  padding: 5px;
+  color: white;
+  font-size: 60px;
+  font-weight: bolder;
+  text-align: center;
+}
